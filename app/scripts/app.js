@@ -53,14 +53,7 @@ angular.module('MyIonic1', ['ionic', 'MyIonic1.services', 'MyIonic1.controllers'
         }
       }
     })
-     .state('tab.beer', {
-      url: '/beer',
-      views: {
-        'beer-tab': {
-          templateUrl: 'templates/beer.html'
-        }
-      }
-    })
+
     .state('tab.about', {
       url: '/about',
       views: {

@@ -12,7 +12,9 @@ angular.module('MyIonic1.services', [])
     { id: 0, title: 'Cats', description: 'Furry little creatures. Obsessed with plotting assassination, but never following through on it.' },
     { id: 1, title: 'Dogs', description: 'Lovable. Loyal almost to a fault. Smarter than they let on.' },
     { id: 2, title: 'Turtles', description: 'Everyone likes turtles.' },
-    { id: 3, title: 'Sharks', description: 'An advanced pet. Needs millions of gallons of salt water. Will happily eat you.' }
+    { id: 3, title: 'Sharks', description: 'An advanced pet. Needs millions of gallons of salt water. Will happily eat you.' },
+    { id: 4, title: 'Dragons', description: 'Everyone knows the dragons all died centuries ago...right?' },
+    { id: 5, title: 'Dire Wolves', description: 'Go Arya!' }    
   ];
 
   return {
